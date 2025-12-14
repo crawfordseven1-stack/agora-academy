@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Agora Affiliate Training Academy",
+  "description": "Interactive training platform for Agora Enterprises affiliates. Features AI role-play, compliance quizzes, and lead submission simulations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
